@@ -14,3 +14,5 @@ Flask microservice for managing a collection of pictures.
 
 ## Run tests
 
+    pip install -r requirements.txt
+    pytest -v
